@@ -8,3 +8,6 @@ There is 4 pages:
  - Add Student (by office);
  - See Homeworks (by Students/Teachers);
  - Add Homeworks;
+
+<i><b><u>To start Frontend and Backend:</i></b></u>
+<pre> npm start </pre>

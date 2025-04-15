@@ -11,3 +11,6 @@ There is 4 pages:
 
 <i><b><u>To start Frontend and Backend:</i></b></u>
 <pre> npm start </pre>
+
+> [!WARNING]
+> Admin:    office     Office1234@

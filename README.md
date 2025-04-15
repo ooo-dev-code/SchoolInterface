@@ -4,7 +4,7 @@
 
 There is 5 pages:
 
- - Login/Register;
- - Home to present the themes;
- - Ratings page to rate the presentation;
- - The commmentary section;
+ - Login;
+ - Add User (by office);
+ - See Homeworks (by Users/Teachers);
+ - Add Homeworks;

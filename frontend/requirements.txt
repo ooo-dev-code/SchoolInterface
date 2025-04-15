@@ -1,0 +1,10 @@
+react
+react-dom
+react-scripts
+axios
+redux
+react-redux
+react-router-dom
+prop-types
+dotenv
+react-icons

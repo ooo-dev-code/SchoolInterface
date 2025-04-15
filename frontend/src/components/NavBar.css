@@ -1,0 +1,48 @@
+.nav-container {
+    background-color: #fafafa;
+    padding: 15px 40px;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #777;
+    font-weight: 600;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #6f42c1; /* purple hover */
+  }
+  
+  .nav-link.active {
+    color: #6f42c1; /* matches the 'PROJECTS' from image */
+  }
+  
+  .logout-button {
+    background: none;
+    border: none;
+    color: #777;
+    font-size: 1rem;
+    cursor: pointer;
+    font-weight: 600;
+  }
+  
+  .logout-button:hover {
+    color: #d9534f;
+  }
+  
